@@ -24,4 +24,5 @@
 
 ## Web Development
 
+- Angular Directive Attribute Binding: https://gist.github.com/CMCDragonkai/6282750
 - MDN: https://developer.mozilla.org/en-US/docs/Web
