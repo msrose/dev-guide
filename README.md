@@ -3,6 +3,7 @@
 ## Contents
 
 1. [JavaScript](#javascript)
+1. [NPM](#NPM)
 1. [Semantic Versioning](#semantic-versioning)
 1. [Version Control](#version-control)
     - [Git](#git)
@@ -11,6 +12,10 @@
 ## JavaScript
 
 - Google style guide: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
+## NPM
+
+- Using NPM as a build tool: http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
 
 ## Semantic Versioning
 
