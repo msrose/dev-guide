@@ -3,7 +3,7 @@
 ## Contents
 
 1. [JavaScript](#javascript)
-1. [NPM](#NPM)
+1. [NPM](#npm)
 1. [Semantic Versioning](#semantic-versioning)
 1. [Version Control](#version-control)
     - [Git](#git)
