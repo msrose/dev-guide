@@ -30,4 +30,5 @@
 ## Web Development
 
 - Angular Directive Attribute Binding: https://gist.github.com/CMCDragonkai/6282750
+- Google Developer Web Fundamentals: https://developers.google.com/web/fundamentals/?hl=en
 - MDN: https://developer.mozilla.org/en-US/docs/Web
