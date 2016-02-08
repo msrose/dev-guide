@@ -3,6 +3,7 @@
 ## Contents
 
 1. [JavaScript](#javascript)
+1. [Licenses](#licenses)
 1. [NPM](#npm)
 1. [Semantic Versioning](#semantic-versioning)
 1. [Version Control](#version-control)
@@ -12,6 +13,10 @@
 ## JavaScript
 
 - Google style guide: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
+## Licenses
+
+- http://choosealicense.com/
 
 ## NPM
 
