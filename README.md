@@ -9,6 +9,7 @@
 1. [Version Control](#version-control)
     - [Git](#git)
 1. [Web Development](#web-development)
+1. [General](#general)
 
 ## JavaScript
 
@@ -37,3 +38,7 @@
 - Angular Directive Attribute Binding: https://gist.github.com/CMCDragonkai/6282750
 - Google Developer Web Fundamentals: https://developers.google.com/web/fundamentals/?hl=en
 - MDN: https://developer.mozilla.org/en-US/docs/Web
+
+## General
+
+- Interview guide with lots of good videos and references for all things computer science: https://github.com/jwasham/coding-interview-university
